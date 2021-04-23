@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ ecua2dogr(int,\ int,\ int)
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=java.lang.String\ ecRecta(double,\ double,\ double,\ double)
+comment3.params=hip\ cat
+comment3.target=double\ catFaltante(double,\ double)
+numComments=4

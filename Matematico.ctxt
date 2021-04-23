@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=x\ y\ z
+comment1.target=java.lang.String\ ordenar(int,\ int,\ int)
+comment2.params=base\ altura
+comment2.target=double\ calcArea(double,\ double)
+comment3.params=x\ y
+comment3.target=java.lang.String\ cuadrante(double,\ double)
+comment4.params=a\ b\ c
+comment4.target=java.lang.String\ decirEc2doGr(int,\ int,\ int)
+comment5.params=x1\ x2\ y1\ y2
+comment5.target=java.lang.String\ decirEcRec(double,\ double,\ double,\ double)
+comment6.params=hipotenusa\ cateto
+comment6.target=double\ decirCatFaltante(double,\ double)
+numComments=7
